@@ -1,0 +1,30 @@
+.card {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    width: 90%;
+    margin-left: 6rem;
+    
+    
+}
+div {
+    padding: 2rem;
+    
+}
+
+.card__titulo {
+    color: var(--vermelho);
+    font-size: 60px;
+    font-weight: 600;
+    margin-bottom: 1rem;
+
+}
+.card__sub-titulo {
+    color: var(--preto);
+    font-size: 18px;
+    margin-bottom: .5rem;
+    
+}
+.card__texto {
+    color: var(--texto);
+    font-weight: 400;
+}

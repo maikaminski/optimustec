@@ -1,0 +1,22 @@
+@import url("styles/cabecalho.css");
+@import url("styles/sobrenos.css");
+@import url("styles/card.css");
+@import url("styles/vagas.css");
+@import url("styles/depoimentos.css");
+@import url("styles/rodape.css");
+
+:root {
+    --fonte-principal: "Inter";
+    --vermelho: #8E2424;
+    --branco: #ffffff;
+    --texto: #667085;
+    --preto: #101828;
+    --borda: #EAECF0;
+    --fundo-rodape: #F9FAFB;
+
+}
+body {
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 500;
+}

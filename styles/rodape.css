@@ -1,0 +1,32 @@
+.rodape {
+    background-color: var(--fundo-rodape);
+    padding: 4rem;
+    margin-top: 4rem;
+    text-align: center;
+    
+}
+.rodape__titulo {
+    font-size: 36px;
+    color: var(--preto);
+    font-weight: 600;
+    padding: 1.5rem;
+}
+.rodape__texto {
+    font-size: 20px;
+    color: var(--texto);
+    padding: 1.5rem;
+}
+.rodape__email {
+    outline: none;
+    padding:0.5rem;
+    border: 1px solid var(--borda);
+    border-radius: 6px;
+    margin-right: 1rem;
+    padding-right: 4rem;
+}
+.rodape__direitos {
+    color: var(--texto);
+    font-size: 16px;
+    font-weight: 400;
+    padding: 1.5rem;
+}
